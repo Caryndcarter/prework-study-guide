@@ -6,8 +6,6 @@ One page web app built in HTML, CSS, and JavaScript that enables Coding Bootcamp
 
 This web app was designed to aid students in their learning.
 
-Although, I knew basic HTML, CSS and Javascript already, with this exercise, I learned some more important Gitflow fundamentals and Gitflow became clearer to me.
-
 ## Installation
 
 N/A
